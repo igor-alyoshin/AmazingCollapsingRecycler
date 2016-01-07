@@ -1,3 +1,3 @@
 # AmazingCollapsingRecycler
 
-![Alt text](home/igor/out2.gif)
+![Alt text](https://github.com/igor-alyoshin/AmazingCollapsingRecycler/blob/master/art/presentation.gif)
